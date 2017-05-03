@@ -1,0 +1,17 @@
+{
+  "name": "hedaless-gl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angle-normals": "^1.0.0",
+    "bunny": "^1.0.1",
+    "gl": "^4.0.3",
+    "log4js": "^1.1.1"
+  }
+}
